@@ -1,37 +1,31 @@
-/* Chọn tất cả các phần tử */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
   }
   
-  /* Thiết lập các thuộc tính của thẻ body */
   body {
     font-family: Arial, sans-serif;
     background-color: #f2f2f2;
     padding: 20px;
   }
   
-  /* Thiết lập các thuộc tính của thẻ h1 */
   h1 {
     text-align: center;
     font-size: 48px;
     margin-bottom: 30px;
   }
   
-  /* Thiết lập các thuộc tính của thẻ h2 */
   h2 {
     font-size: 24px;
     margin-top: 30px;
   }
   
-  /* Thiết lập các thuộc tính của thẻ p */
   p {
     font-size: 18px;
     margin-bottom: 10px;
   }
   
-  /* Thiết lập các thuộc tính của thẻ input */
   input {
     padding: 10px;
     font-size: 18px;
@@ -40,7 +34,6 @@
     margin-bottom: 10px;
   }
   
-  /* Thiết lập các thuộc tính của thẻ button */
   button {
     padding: 10px 20px;
     font-size: 18px;
@@ -52,21 +45,18 @@
     margin-bottom: 10px;
   }
   
-  /* Thiết lập các thuộc tính của thẻ p có id="binary" */
   #binary {
     font-size: 24px;
     font-weight: bold;
     margin-bottom: 30px;
   }
   
-  /* Thiết lập các thuộc tính của thẻ p có id="decimal2" */
   #decimal2 {
     font-size: 24px;
     font-weight: bold;
     margin-bottom: 30px;
   }
   
-  /* Thiết lập các thuộc tính của thẻ p có id="encoded" */
   #encoded {
     font-size: 24px;
     font-weight: bold;
